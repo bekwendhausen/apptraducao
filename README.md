@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Site hospedado na nuvem gratuita AWS acesse por meio de: [Site AWS](http://apptraducao.s3-website-sa-east-1.amazonaws.com/)
+Site hospedado na nuvem gratuita AWS, acesse por meio de: [Site AWS](http://apptraducao.s3-website-sa-east-1.amazonaws.com/)
 
 ## Code scaffolding
 
